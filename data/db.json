@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Article",
+      "body": "lorem ipsum",
+      "author": "Theresa",
+      "id": 1
+    },
+    {
+      "title": "My Second Article",
+      "body": "lorem ipsum",
+      "author": "Mike",
+      "id": 2
+    },
+    {
+      "title": "My Third Article",
+      "body": "lorem ipsum",
+      "author": "Nico",
+      "id": 3
+    },
+    {
+      "title": "New Blog Entry",
+      "body": "dfj;adfja ;djfa kdfjadskf aidadshadfga;dkfga",
+      "author": "Nico",
+      "id": 4
+    },
+    {
+      "title": "Final Test",
+      "body": "What fun this has been.",
+      "author": "Theresa",
+      "id": 6
+    }
+  ]
+}
